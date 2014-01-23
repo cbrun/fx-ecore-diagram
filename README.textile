@@ -1,0 +1,7 @@
+h1. Hack/Experiment with JavaFx as a diagraming runtime
+
+This project is more a base for learning and trying things than anything else.
+
+Most of the code is useless (often not event used) 
+Many shortcuts/bad practices are done. 
+
